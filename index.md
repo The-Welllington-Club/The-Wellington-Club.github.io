@@ -7,7 +7,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
 
-Welcome to the public website of The Wellington Club (TWC). TWC is a here to create an environment for Junior Officers to network and collaborate with further intentions of nurturing potential Officers into their roles. Our inention is to positively influence policy through engagement with Senior Officers within the British Army.
+Welcome to the public website of The Wellington Club (TWC). TWC is a here to create an environment for Junior Officers to network and collaborate with further intentions of nurturing potential Officers into their roles. Also, our intention is to positively influence policy through engagement with Senior Officers within the British Army.
 
 {% include button.html text="twitter" icon="twitter" link="https://twitter.com/WellingtonClub" color="#0d94e7" %} {% include button.html text="Instagram" icon="instagram" link="https://www.instagram.com/twclublondon" color="#C13584" %} 
 
