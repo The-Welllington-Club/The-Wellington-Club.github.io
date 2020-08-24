@@ -1,8 +1,8 @@
 ---
 title:
 feature_text: |
-  ## Junior Officer's Forum 
-  The Wellington Club is a forum for Junior Officer's in London to network and collaborate.
+  ## Junior Officers' Forum 
+  The Wellington Club is a forum for Junior Officers in London to network and collaborate.
 feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: ""
 ---
